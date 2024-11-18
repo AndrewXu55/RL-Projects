@@ -9,9 +9,7 @@ This project was based on the **OpenAIGym Cartpole Problem**. It is detailed [he
 
 This project involved 
 - Reinforcement Learning
-- Deep Q-Learning with Dueling Architecture
-- Prioritized Experience Replay (PER)
-- Custom Neural Network Architectures
+- Deep Q-Learning
 - TensorFlow and Keras
 - Softmax Action Selection
 - Visualization with OpenCV and Matplotlib
