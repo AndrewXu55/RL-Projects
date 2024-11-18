@@ -5,9 +5,13 @@ This repository contains several personal reinforcement learning projects. You w
 
 ## Cartpole Project
 
-This project was based on the **OpenAIGym Cartpole Problem**. It is detailed [here](https://www.gymlibrary.dev/environments/classic_control/cart_pole/). The main idea is to keep a pole up and standing on a cart by only moving the cart left and right.
+This project was based on the **OpenAIGym Cartpole Problem**. The main idea is to keep a pole up and standing on a cart by only moving the cart left and right. If the cart leaves the specified domain or the pole reaches an angle too far to recover from, the program determines it as the failing point.
 
-This project involved 
+<img src="Cartpole Project/cart_pole.gif" alt="1" style="width:350px;"/>
+
+More information about this problem is detailed [here](https://www.gymlibrary.dev/environments/classic_control/cart_pole/).
+
+This project involves
 - Reinforcement Learning
 - Deep Q-Learning
 - TensorFlow and Keras
@@ -15,6 +19,4 @@ This project involved
 - Visualization with OpenCV and Matplotlib
 - Multi-threading for Asynchronous Operations
 
-
-<img src="Cartpole Project/cart_pole.gif" alt="1" style="width:350px;"/>
 <img src="Cartpole Project/plot.png" alt="2" style="width:350px;"/>
