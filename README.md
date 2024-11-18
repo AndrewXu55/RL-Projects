@@ -14,3 +14,7 @@ This project involved
 - Softmax Action Selection
 - Visualization with OpenCV and Matplotlib
 - Multi-threading for Asynchronous Operations
+
+
+<img src="Cartpole Project/cart_pole.gif" alt="1" style="width:350px;"/>
+<img src="Cartpole Project/plot.png" alt="2" style="width:350px;"/>
