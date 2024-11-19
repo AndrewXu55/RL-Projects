@@ -18,5 +18,5 @@ Main Concepts/Tools Utilized
 - Visualization with OpenCV and Matplotlib
 - Multi-threading for Asynchronous Operations
 
-Results:
+### Results:
 <img src="Cartpole Project/plot.png" alt="2" style="width:350px;"/>
