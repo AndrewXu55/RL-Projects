@@ -11,12 +11,12 @@ This project was based on the **OpenAIGym Cartpole Problem**. The main idea is t
 
 More information about this problem is detailed [here](https://www.gymlibrary.dev/environments/classic_control/cart_pole/).
 
-This project involves
-- Reinforcement Learning
+Main Concepts/Tools Utilized
 - Deep Q-Learning
 - TensorFlow and Keras
 - Softmax Action Selection
 - Visualization with OpenCV and Matplotlib
 - Multi-threading for Asynchronous Operations
 
+Results:
 <img src="Cartpole Project/plot.png" alt="2" style="width:350px;"/>
